@@ -40,5 +40,7 @@ Automate end-to-end video campaign creation based on user feedback using n8n, Op
 <img width="1088" height="277" alt="Screenshot 2025-07-21 183658" src="https://github.com/user-attachments/assets/eb77281a-29f4-448d-93c9-c07a86e874e2" />
 
 
-
+## ✍️ Author
+Palak Chaturvedi  
+[LinkedIn](https://linkedin.com/in/palak-chaturvedi) | [Portfolio](https://www.notion.so/AI-Powered-Marketing-Content-Generator-237080ad24ae80f7bb59dd4d4a1601e2?p=237080ad24ae80388adcdc34c6e46a37&showMoveTo=true)
 
